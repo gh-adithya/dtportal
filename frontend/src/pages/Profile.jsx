@@ -20,12 +20,12 @@ import {
 
 const Profile = () => {
   const profileData = {
-    name: "John Doe",
-    email: "john.doe@example.com",
+    name: "Sample User",
+    email: "sample@example.com",
     phone: "+1 (555) 123-4567",
     birthday: "March 15, 1988",
-    address: "123 Wellness Street, Health City, HC 54321",
-    avatarUrl: "/path/to/avatar.jpg", // Replace with actual path if available
+    address: "BITS Pilani, Goa Campus",
+    avatarUrl: "frontend/public/avatar.png", // Replace with actual path if available
   };
 
   return (

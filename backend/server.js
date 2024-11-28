@@ -20,7 +20,7 @@ mongoose
 
 // Basic route
 app.get("/", (req, res) => {
-  res.send("Hospital Portal Backend");
+  res.send("Digital Twin Portal Backend");
 });
 
 const PORT = process.env.PORT || 5000;
